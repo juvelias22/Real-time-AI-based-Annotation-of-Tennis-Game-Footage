@@ -17,5 +17,5 @@ This repository contains the implementation for a real-time multi-model AI frame
 - 📌 Tennis court keypoint detection using ResNet18
 - 🧾 Scoreboard text recognition via EasyOCR
 
-Models file can be found using teh google drive link :
+📦 Download all pretrained model weights (YOLOv8, TrackNet, ResNet18, etc.) from the following Google Drive link:
 https://drive.google.com/drive/folders/1PtZ8_7CEdhP0sI9bhwt8BDwx91rPe4Vj?usp=drive_link
