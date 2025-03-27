@@ -1,4 +1,4 @@
-# 🎾 Real-Time AI-Based Annotation of Tennis Game Footage
+![image](https://github.com/user-attachments/assets/39ee44f3-c40e-482b-8e0a-ce02095f235a)# 🎾 Real-Time AI-Based Annotation of Tennis Game Footage
 
 This repository provides the implementation of a real-time, AI-powered framework for automatic annotation and commentary of singles tennis matches. The system integrates multiple computer vision and deep learning models to detect players, track the ball, classify strokes, segment rallies, and generate natural language commentary using structured match annotations.
 
@@ -35,5 +35,5 @@ The framework includes:
 All components are orchestrated to process standard broadcast footage from a single camera angle and generate live annotations and fluent, contextual commentary.
 
 📦 Download all pretrained model weights (YOLOv8, TrackNet, ResNet18, etc.) from the following Google Drive link:
-[https://drive.google.com/drive/folders/1PtZ8_7CEdhP0sI9bhwt8BDwx91rPe4Vj]
+[https://github.com/juvelias22/Real-time-AI-based-Annotation-of-Tennis-Game-Footage/releases/tag/v1.0.0]
 
