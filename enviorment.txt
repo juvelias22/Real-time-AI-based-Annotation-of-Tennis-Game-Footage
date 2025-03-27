@@ -2,7 +2,9 @@
 
 ## Python & OS
 - Python Version: 3.9.15
-- OS: [Windows 10 ]
+- OS: [Windows 11]
+- Processor: Intel(R) Core(TM) i9-14900HX
+- GPU Device: NVIDIA GeForce RTX 4070 Laptop GPU
 
 ## Key Libraries
 | Library        | Version        |
@@ -24,9 +26,9 @@
 
 ## PyTorch & CUDA
 - PyTorch Version: 2.4.0+cu118
-- CUDA Available: Yes
 - CUDA Toolkit: 11.8
-- GPU Device: [Insert your GPU here, e.g., NVIDIA RTX 3060]
+- CUDA Available: Yes
+- GPU Acceleration: Enabled
 
 ## TensorFlow
 - TensorFlow Version: 2.10.0
