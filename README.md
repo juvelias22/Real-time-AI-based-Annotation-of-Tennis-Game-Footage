@@ -35,4 +35,5 @@ The framework includes:
 All components are orchestrated to process standard broadcast footage from a single camera angle and generate live annotations and fluent, contextual commentary.
 
 📦 Download all pretrained model weights (YOLOv8, TrackNet, ResNet18, etc.) from the following Google Drive link:
-https://drive.google.com/drive/folders/1PtZ8_7CEdhP0sI9bhwt8BDwx91rPe4Vj?usp=drive_link
+[https://drive.google.com/drive/folders/1PtZ8_7CEdhP0sI9bhwt8BDwx91rPe4Vj]
+
