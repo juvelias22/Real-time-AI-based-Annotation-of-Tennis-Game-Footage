@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/39ee44f3-c40e-482b-8e0a-ce02095f235a)# 🎾 Real-Time AI-Based Annotation of Tennis Game Footage
+# 🎾 Real-Time AI-Based Annotation of Tennis Game Footage
 
 This repository provides the implementation of a real-time, AI-powered framework for automatic annotation and commentary of singles tennis matches. The system integrates multiple computer vision and deep learning models to detect players, track the ball, classify strokes, segment rallies, and generate natural language commentary using structured match annotations.
 
