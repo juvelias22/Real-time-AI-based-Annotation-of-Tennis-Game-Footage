@@ -2,7 +2,7 @@
 
 This repository contains the implementation for a real-time multi-model AI framework that performs **player detection**, **pose estimation**, **ball tracking**, **action recognition**, **rally classification**, **court keypoint detection**, **OCR-based context parsing**, and **generates real-time tennis commentary using GPT**.
 
-> 🧠 Developed as part of a Master's dissertation on artificial intelligence in sports analytics.
+> 🧠 Developed as part of a Master's dissertation on artificial intelligence.
 
 ---
 
